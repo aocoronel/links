@@ -9,7 +9,7 @@
   {
     "id": "db",
     "sub_id": "Livros",
-    "title": "Anna's Archive",
+    "title": "Arquivos da Anna",
     "url": "https://annas-archive.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/annas-archive.org.ico"
   },
@@ -107,7 +107,7 @@
   {
     "id": "db",
     "sub_id": "Ícones",
-    "title": "Nerd Ícones",
+    "title": "Nerd Icons",
     "url": "https://www.nerdfonts.com/cheat-sheet",
     "icon": "https://external-content.duckduckgo.com/ip3/www.nerdfonts.com.ico"
   },

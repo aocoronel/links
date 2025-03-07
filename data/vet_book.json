@@ -8,8 +8,15 @@
   },
   {
     "id": "vet_book",
+    "sub_id": "Biblioteca",
+    "title": "Arquivos da Anna",
+    "url": "https://annas-archive.org/",
+    "icon": "https://external-content.duckduckgo.com/ip3/annas-archive.org.ico"
+  },
+  {
+    "id": "vet_book",
     "sub_id": "Microbiologia",
-    "title": "Medical Microbiology - NCBI",
+    "title": "NCBI - Medical Microbiology",
     "url": "https://www.ncbi.nlm.nih.gov/books/NBK7795/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.ncbi.nlm.nih.gov.ico"
   }
