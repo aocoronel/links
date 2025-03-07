@@ -1,7 +1,7 @@
 [
   {
     "id": "vet",
-    "sub_id": "Tech",
+    "sub_id": "Tecnologia",
     "title": "VetSmart",
     "url": "https://www.vetsmart.com.br/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.vetsmart.com.br.ico"
@@ -15,7 +15,7 @@
   },
   {
     "id": "vet",
-    "sub_id": "Articles",
+    "sub_id": "Artigos",
     "title": "PubMed",
     "url": "https://pubmed.ncbi.nlm.nih.gov/",
     "icon": "https://external-content.duckduckgo.com/ip3/pubmed.ncbi.nlm.nih.gov.ico"
@@ -85,77 +85,77 @@
   },
   {
     "id": "vet",
-    "sub_id": "Articles",
+    "sub_id": "Artigos",
     "title": "BioMedCentral",
     "url": "https://www.biomedcentral.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.biomedcentral.com.ico"
   },
   {
     "id": "vet",
-    "sub_id": "Articles",
+    "sub_id": "Artigos",
     "title": "Britannica",
     "url": "https://www.britannica.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.britannica.com.ico"
   },
   {
     "id": "vet",
-    "sub_id": "Articles",
+    "sub_id": "Artigos",
     "title": "MDPI",
     "url": "https://www.mdpi.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.mdpi.com.ico"
   },
   {
     "id": "vet",
-    "sub_id": "Tech",
+    "sub_id": "Tecnologia",
     "title": "Mendeley",
     "url": "https://www.mendeley.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.mendeley.com.ico"
   },
   {
     "id": "vet",
-    "sub_id": "Articles",
+    "sub_id": "Artigos",
     "title": "Microbiology Research",
     "url": "https://www.microbiologyresearch.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.microbiologyresearch.org.ico"
   },
   {
     "id": "vet",
-    "sub_id": "Articles",
+    "sub_id": "Artigos",
     "title": "Nature",
     "url": "https://www.nature.com/srep/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.nature.com.ico"
   },
   {
     "id": "vet",
-    "sub_id": "Articles",
+    "sub_id": "Artigos",
     "title": "PLOS",
     "url": "https://journals.plos.org/plosone/",
     "icon": "https://external-content.duckduckgo.com/ip3/journals.plos.org.ico"
   },
   {
     "id": "vet",
-    "sub_id": "Articles",
+    "sub_id": "Artigos",
     "title": "PNAS",
     "url": "https://www.pnas.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.pnas.org.ico"
   },
   {
     "id": "vet",
-    "sub_id": "Articles",
+    "sub_id": "Artigos",
     "title": "SciElo",
     "url": "https://scielo.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/scielo.org.ico"
   },
   {
     "id": "vet",
-    "sub_id": "Tech",
+    "sub_id": "Tecnologia",
     "title": "Zotero",
     "url": "https://www.zotero.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.zotero.org.ico"
   },
   {
     "id": "vet",
-    "sub_id": "Tech",
+    "sub_id": "Tecnologia",
     "title": "SimplesVet",
     "url": "https://simples.vet/",
     "icon": "https://external-content.duckduckgo.com/ip3/simples.vet.ico"
@@ -204,49 +204,49 @@
   },
   {
     "id": "vet",
-    "sub_id": "News",
+    "sub_id": "Notícias",
     "title": "Vet Cornell",
     "url": "https://www.vet.cornell.edu/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.vet.cornell.edu.ico"
   },
   {
     "id": "vet",
-    "sub_id": "News",
+    "sub_id": "Notícias",
     "title": "Clinician's Brief",
     "url": "https://www.cliniciansbrief.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.cliniciansbrief.com.ico"
   },
   {
     "id": "vet",
-    "sub_id": "News",
+    "sub_id": "Notícias",
     "title": "TotalVet",
     "url": "https://total.vet/",
     "icon": "https://external-content.duckduckgo.com/ip3/total.vet.ico"
   },
   {
     "id": "vet",
-    "sub_id": "News",
+    "sub_id": "Notícias",
     "title": "VetTimes",
     "url": "https://www.vettimes.com/vet/vets",
     "icon": "https://external-content.duckduckgo.com/ip3/www.vettimes.com.ico"
   },
   {
     "id": "vet",
-    "sub_id": "News",
+    "sub_id": "Notícias",
     "title": "Today's Vet Business",
     "url": "https://todaysveterinarybusiness.com/veterinary-vet/",
     "icon": "https://external-content.duckduckgo.com/ip3/todaysveterinarybusiness.com.ico"
   },
   {
     "id": "news",
-    "sub_id": "News",
+    "sub_id": "Notícias",
     "title": "DVM360",
     "url": "https://www.dvm360.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.dvm360.com.ico"
   },
   {
     "id": "vet",
-    "sub_id": "News",
+    "sub_id": "Notícias",
     "title": "VetGirl",
     "url": "https://vetgirlontherun.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/vetgirlontherun.com.ico"

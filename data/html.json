@@ -1,49 +1,49 @@
 [
   {
     "id": "html",
-    "sub_id": "Basics",
+    "sub_id": "Básico",
     "title": "Mozilla Web Dev",
     "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
     "icon": "https://external-content.duckduckgo.com/ip3/developer.mozilla.org.ico"
   },
   {
     "id": "html",
-    "sub_id": "Books",
+    "sub_id": "Livros",
     "title": "HTML Handbook",
     "url": "https://flaviocopes.pages.dev/books/html-handbook.pdf",
     "icon": "https://external-content.duckduckgo.com/ip3/flaviocopes.pages.dev.ico"
   },
   {
     "id": "html",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "W3Schools",
     "url": "https://www.w3schools.com/html/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.w3schools.com.ico"
   },
   {
     "id": "html",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "web.dev",
     "url": "https://web.dev/html",
     "icon": "https://external-content.duckduckgo.com/ip3/web.dev.ico"
   },
   {
     "id": "html",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "Learn HTML",
     "url": "https://www.learn-html.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.learn-html.org.ico"
   },
   {
     "id": "html",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "QuickRef",
     "url": "https://quickref.me/html",
     "icon": "https://external-content.duckduckgo.com/ip3/quickref.me.ico"
   },
   {
     "id": "html",
-    "sub_id": "Books",
+    "sub_id": "Livros",
     "title": "HTMLBook",
     "url": "https://books.goalkicker.com/HTML5Book/",
     "icon": "https://external-content.duckduckgo.com/ip3/books.goalkicker.com.ico"

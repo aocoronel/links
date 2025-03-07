@@ -1,63 +1,63 @@
 [
   {
     "id": "rs",
-    "sub_id": "Basics",
+    "sub_id": "Básico",
     "title": "Learn Rust",
     "url": "https://www.rust-lang.org/learn",
     "icon": "https://external-content.duckduckgo.com/ip3/www.rust-lang.org.ico"
   },
   {
     "id": "rs",
-    "sub_id": "Books",
+    "sub_id": "Livros",
     "title": "Rust by Google",
     "url": "https://google.github.io/comprehensive-rust/welcome-day-1.html",
     "icon": "https://external-content.duckduckgo.com/ip3/google.github.io.ico"
   },
   {
     "id": "rs",
-    "sub_id": "Books",
+    "sub_id": "Livros",
     "title": "Rust 101",
     "url": "https://rust-lang.guide/guide/learn-rust/index.html",
     "icon": "https://external-content.duckduckgo.com/ip3/rust-lang.guide.ico"
   },
   {
     "id": "rs",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "roadmap.sh",
     "url": "https://roadmap.sh/rust",
     "icon": "https://external-content.duckduckgo.com/ip3/roadmap.sh.ico"
   },
   {
     "id": "rs",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "Cheats.rs",
     "url": "https://cheats.rs/",
     "icon": "https://external-content.duckduckgo.com/ip3/cheats.rs.ico"
   },
   {
     "id": "rs",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "QuickRef",
     "url": "https://quickref.me/rust.html",
     "icon": "https://external-content.duckduckgo.com/ip3/quickref.me.ico"
   },
   {
     "id": "rs",
-    "sub_id": "Basics",
+    "sub_id": "Básico",
     "title": "Standard Library",
     "url": "https://doc.rust-lang.org/std/prelude/index.html",
     "icon": "https://external-content.duckduckgo.com/ip3/doc.rust-lang.org.ico"
   },
   {
     "id": "rs",
-    "sub_id": "Exercises",
-    "title": "100 Exercises",
+    "sub_id": "Exercícios",
+    "title": "100 Exercícios",
     "url": "https://rust-exercises.com/100-exercises/01_intro/00_welcome.html",
     "icon": "https://external-content.duckduckgo.com/ip3/rust-exercises.com.ico"
   },
   {
     "id": "rs",
-    "sub_id": "Exercises",
+    "sub_id": "Exercícios",
     "title": "Rustlings",
     "url": "https://github.com/rust-lang/rustlings",
     "icon": "https://external-content.duckduckgo.com/ip3/github.com.ico"

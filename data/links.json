@@ -155,7 +155,7 @@
   },
   {
     "id": "code",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "roadmap.sh",
     "url": "https://roadmap.sh/",
     "icon": "https://external-content.duckduckgo.com/ip3/roadmap.sh.ico"
@@ -274,14 +274,14 @@
   },
   {
     "id": "db",
-    "sub_id": "Books",
-    "title": "Mind Expand Books",
-    "url": "https://github.com/hackerkid/Mind-Expanding-Books#readme",
+    "sub_id": "Livros",
+    "title": "Mind Expand Livros",
+    "url": "https://github.com/hackerkid/Mind-Expanding-Livros#readme",
     "icon": "https://external-content.duckduckgo.com/ip3/github.com.ico"
   },
   {
     "id": "cybersec",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "PrivacyTools",
     "url": "https://www.privacytools.io/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.privacytools.io.ico"
@@ -302,7 +302,7 @@
   },
   {
     "id": "db",
-    "sub_id": "Books",
+    "sub_id": "Livros",
     "title": "Anna's Archive",
     "url": "https://annas-archive.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/annas-archive.org.ico"
@@ -443,7 +443,7 @@
   {
     "id": "book",
     "sub_id": "Code",
-    "title": "Free Programming Books",
+    "title": "Free Programming Livros",
     "url": "https://github.com/EbookFoundation/free-programming-books#readme",
     "icon": "https://external-content.duckduckgo.com/ip3/github.com.ico"
   },
@@ -456,7 +456,7 @@
   },
   {
     "id": "code",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "Arch Wiki",
     "url": "https://wiki.archlinux.org/title/Main_page",
     "icon": "https://external-content.duckduckgo.com/ip3/wiki.archlinux.org.ico"
@@ -764,7 +764,7 @@
   },
   {
     "id": "cybersec",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "PrivacyGuide",
     "url": "https://www.privacyguides.org/en/basics/why-privacy-matters/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.privacyguides.org.ico"

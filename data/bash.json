@@ -1,56 +1,56 @@
 [
   {
     "id": "bash",
-    "sub_id": "Basics",
+    "sub_id": "Básico",
     "title": "Bash Manual",
     "url": "https://www.gnu.org/software/bash/manual/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.gnu.org.ico"
   },
   {
     "id": "bash",
-    "sub_id": "Books",
+    "sub_id": "Livros",
     "title": "Introduction to Bash",
     "url": "https://github.com/bobbyiliev/introduction-to-bash-scripting",
     "icon": "https://external-content.duckduckgo.com/ip3/github.com.ico"
   },
   {
     "id": "bash",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "Learn Bash",
     "url": "https://www.learnshell.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.learnshell.org.ico"
   },
   {
     "id": "bash",
-    "sub_id": "Books",
+    "sub_id": "Livros",
     "title": "BashBook",
     "url": "https://books.goalkicker.com/BashBook/",
     "icon": "https://external-content.duckduckgo.com/ip3/books.goalkicker.com.ico"
   },
   {
     "id": "bash",
-    "sub_id": "Guides",
-    "title": "Advanced Bash Guides",
+    "sub_id": "Guias",
+    "title": "Advanced Bash Guias",
     "url": "https://tldp.org/LDP/abs/html/",
     "icon": "https://external-content.duckduckgo.com/ip3/tldp.org.ico"
   },
   {
     "id": "bash",
-    "sub_id": "Books",
+    "sub_id": "Livros",
     "title": "Learning Bash",
     "url": "https://riptutorial.com/ebook/bash",
     "icon": "https://external-content.duckduckgo.com/ip3/riptutorial.com.ico"
   },
   {
     "id": "bash",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "QuickRef",
     "url": "https://quickref.me/bash",
     "icon": "https://external-content.duckduckgo.com/ip3/quickref.me.ico"
   },
   {
     "id": "bash",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "roadmap.sh",
     "url": "https://roadmap.sh/linux",
     "icon": "https://external-content.duckduckgo.com/ip3/roadmap.sh.ico"

@@ -1,42 +1,42 @@
 [
   {
     "id": "book",
-    "sub_id": "Tech",
-    "title": "Free Programming Books",
+    "sub_id": "Tecnologia",
+    "title": "Free Programming Livros",
     "url": "https://github.com/EbookFoundation/free-programming-books#readme",
     "icon": "https://external-content.duckduckgo.com/ip3/github.com.ico"
   },
   {
     "id": "book",
-    "sub_id": "Cybersecurity",
+    "sub_id": "Cibersegurança",
     "title": "Gray Hat Hacking",
     "url": "https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf",
     "icon": "https://external-content.duckduckgo.com/ip3/pages.cs.wisc.edu.ico"
   },
   {
     "id": "book",
-    "sub_id": "Computer Science",
+    "sub_id": "Ciência da Computação",
     "title": "DCIC",
     "url": "https://dcic-world.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/dcic-world.org.ico"
   },
   {
     "id": "book",
-    "sub_id": "Computer Science",
-    "title": "UNL - Computer Science I",
+    "sub_id": "Ciência da Computação",
+    "title": "UNL - Ciência da Computação I",
     "url": "https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf",
     "icon": "https://external-content.duckduckgo.com/ip3/cse.unl.edu.ico"
   },
   {
     "id": "book",
-    "sub_id": "Computer Science",
+    "sub_id": "Ciência da Computação",
     "title": "UNL - Computer Scince II",
     "url": "https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf",
     "icon": "https://external-content.duckduckgo.com/ip3/cse.unl.edu.ico"
   },
   {
     "id": "book",
-    "sub_id": "Tech",
+    "sub_id": "Tecnologia",
     "title": "Learn Neovim",
     "url": "https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html",
     "icon": "https://external-content.duckduckgo.com/ip3/ofirgall.github.io.ico"

@@ -1,112 +1,112 @@
 [
   {
     "id": "software",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "PrivacyTools",
     "url": "https://www.privacytools.io/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.privacytools.io.ico"
   },
   {
     "id": "software",
-    "sub_id": "Tests",
+    "sub_id": "Testes",
     "title": "PrivacyTests",
     "url": "https://privacytests.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/privacytests.org.ico"
   },
   {
     "id": "software",
-    "sub_id": "Tests",
+    "sub_id": "Testes",
     "title": "BrowserLeaks",
     "url": "https://browserleaks.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/browserleaks.com.ico"
   },
   {
     "id": "software",
-    "sub_id": "Tests",
+    "sub_id": "Testes",
     "title": "Cover Your Tracks",
     "url": "https://coveryourtracks.eff.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/coveryourtracks.eff.org.ico"
   },
   {
     "id": "software",
-    "sub_id": "Guides",
+    "sub_id": "Guias",
     "title": "PrivacyGuide",
     "url": "https://www.privacyguides.org/en/basics/why-privacy-matters/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.privacyguides.org.ico"
   },
   {
     "id": "software",
-    "sub_id": "Notes",
+    "sub_id": "Notas",
     "title": "Obsidian",
     "url": "https://obsidian.md/",
     "icon": "https://external-content.duckduckgo.com/ip3/obsidian.md.ico"
   },
   {
     "id": "software",
-    "sub_id": "Notes",
+    "sub_id": "Notas",
     "title": "Logseq",
     "url": "https://logseq.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/logseq.com.ico"
   },
   {
     "id": "software",
-    "sub_id": "Notes",
+    "sub_id": "Notas",
     "title": "Neovim",
     "url": "https://neovim.io/",
     "icon": "https://external-content.duckduckgo.com/ip3/neovim.io.ico"
   },
   {
     "id": "software",
-    "sub_id": "Notes",
+    "sub_id": "Notas",
     "title": "Notion",
     "url": "https://www.notion.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.notion.com.ico"
   },
   {
     "id": "software",
-    "sub_id": "Notes",
+    "sub_id": "Notas",
     "title": "Capacities",
     "url": "https://capacities.io/",
     "icon": "https://external-content.duckduckgo.com/ip3/capacities.io.ico"
   },
   {
     "id": "software",
-    "sub_id": "Notes",
+    "sub_id": "Notas",
     "title": "Kortex",
     "url": "https://www.kortex.co/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.kortex.co.ico"
   },
   {
     "id": "software",
-    "sub_id": "Notes",
+    "sub_id": "Notas",
     "title": "Notesnook",
     "url": "https://notesnook.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/notesnook.com.ico"
   },
   {
     "id": "software",
-    "sub_id": "Tasks",
+    "sub_id": "Tarefas",
     "title": "Todoist",
     "url": "https://www.todoist.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.todoist.com.ico"
   },
   {
     "id": "software",
-    "sub_id": "Tasks",
+    "sub_id": "Tarefas",
     "title": "Taskwarrior",
     "url": "https://taskwarrior.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/taskwarrior.org.ico"
   },
   {
     "id": "software",
-    "sub_id": "Images",
+    "sub_id": "Imagens",
     "title": "GIMP",
     "url": "https://www.gimp.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.gimp.org.ico"
   },
   {
     "id": "software",
-    "sub_id": "Images",
+    "sub_id": "Imagens",
     "title": "Krita",
     "url": "https://krita.org",
     "icon": "https://external-content.duckduckgo.com/ip3/krita.org.ico"
@@ -148,7 +148,7 @@
   },
   {
     "id": "software",
-    "sub_id": "Images",
+    "sub_id": "Imagens",
     "title": "Converseen",
     "url": "https://converseen.fasterland.net/",
     "icon": "https://external-content.duckduckgo.com/ip3/converseen.fasterland.net.ico"

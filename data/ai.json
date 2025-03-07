@@ -29,14 +29,14 @@
   },
   {
     "id": "ai",
-    "sub_id": "Images",
+    "sub_id": "Imagens",
     "title": "Leonardo AI",
     "url": "https://app.leonardo.ai",
     "icon": "https://external-content.duckduckgo.com/ip3/app.leonardo.ai.ico"
   },
   {
     "id": "ai",
-    "sub_id": "Images",
+    "sub_id": "Imagens",
     "title": "Loras.dev",
     "url": "https://www.loras.dev/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.loras.dev.ico"
@@ -57,21 +57,21 @@
   },
   {
     "id": "ai",
-    "sub_id": "Research",
+    "sub_id": "Pesquisa",
     "title": "Consensus",
     "url": "https://consensus.app/",
     "icon": "https://external-content.duckduckgo.com/ip3/consensus.app.ico"
   },
   {
     "id": "ai",
-    "sub_id": "Research",
+    "sub_id": "Pesquisa",
     "title": "SciSpace",
     "url": "https://typeset.io/",
     "icon": "https://external-content.duckduckgo.com/ip3/typeset.io.ico"
   },
   {
     "id": "ai",
-    "sub_id": "Libraries",
+    "sub_id": "Bibliotecas",
     "title": "Hugging Face",
     "url": "https://huggingface.co/",
     "icon": "https://external-content.duckduckgo.com/ip3/huggingface.co.ico"
@@ -85,7 +85,7 @@
   },
   {
     "id": "ai",
-    "sub_id": "Images",
+    "sub_id": "Imagens",
     "title": "Stable Diffusion",
     "url": "https://stabledifffusion.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/stabledifffusion.com.ico"
@@ -120,14 +120,14 @@
   },
   {
     "id": "ai",
-    "sub_id": "Libraries",
+    "sub_id": "Bibliotecas",
     "title": "PyTorch",
     "url": "https://pytorch.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/pytorch.org.ico"
   },
   {
     "id": "ai",
-    "sub_id": "Images",
+    "sub_id": "Imagens",
     "title": "Midjourney",
     "url": "https://www.midjourney.com/home",
     "icon": "https://external-content.duckduckgo.com/ip3/www.midjourney.com.ico"
@@ -141,7 +141,7 @@
   },
   {
     "id": "ai",
-    "sub_id": "Libraries",
+    "sub_id": "Bibliotecas",
     "title": "Vosk",
     "url": "https://alphacephei.com/vosk/",
     "icon": "https://external-content.duckduckgo.com/ip3/alphacephei.com.ico"
