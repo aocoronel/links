@@ -177,42 +177,42 @@
   {
     "id": "code",
     "sub_id": "Languages",
-    "title": "Learn Python",
+    "title": "Aprenda Python",
     "url": "https://www.learnpython.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.learnpython.org.ico"
   },
   {
     "id": "code",
     "sub_id": "Languages",
-    "title": "Learn GO",
+    "title": "Aprenda GO",
     "url": "https://go.dev/learn/",
     "icon": "https://external-content.duckduckgo.com/ip3/go.dev.ico"
   },
   {
     "id": "code",
     "sub_id": "Languages",
-    "title": "Learn C++",
+    "title": "Aprenda C++",
     "url": "https://www.learn-cpp.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.learn-cpp.org.ico"
   },
   {
     "id": "code",
     "sub_id": "Languages",
-    "title": "Learn Bash",
+    "title": "Aprenda Bash",
     "url": "https://learn-bash.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/learn-bash.org.ico"
   },
   {
     "id": "code",
     "sub_id": "Languages",
-    "title": "Learn Java",
+    "title": "Aprenda Java",
     "url": "https://dev.java/learn/",
     "icon": "https://external-content.duckduckgo.com/ip3/dev.java.ico"
   },
   {
     "id": "code",
     "sub_id": "Languages",
-    "title": "Learn Rust",
+    "title": "Aprenda Rust",
     "url": "https://www.rust-lang.org/learn",
     "icon": "https://external-content.duckduckgo.com/ip3/www.rust-lang.org.ico"
   },
@@ -667,7 +667,7 @@
   {
     "id": "book",
     "sub_id": "Code",
-    "title": "Learn Neovim",
+    "title": "Aprenda Neovim",
     "url": "https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html",
     "icon": "https://external-content.duckduckgo.com/ip3/ofirgall.github.io.ico"
   },
@@ -813,21 +813,21 @@
   },
   {
     "id": "yt",
-    "sub_id": "Learn-to-Learn",
+    "sub_id": "Aprenda-to-Aprenda",
     "title": "Justin Sung",
     "url": "https://www.youtube.com/channel/UC2Zs9v2hL2qZZ7vsAENsg4w",
     "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
   },
   {
     "id": "yt",
-    "sub_id": "Learn-to-Learn",
+    "sub_id": "Aprenda-to-Aprenda",
     "title": "Koi",
     "url": "https://www.youtube.com/channel/UCBX_-ls-dXuhFNSWSXcHrTA",
     "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
   },
   {
     "id": "yt",
-    "sub_id": "Learn-to-Learn",
+    "sub_id": "Aprenda-to-Aprenda",
     "title": "Ali Abdaal",
     "url": "https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg",
     "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"

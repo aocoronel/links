@@ -9,14 +9,14 @@
   {
     "id": "bash",
     "sub_id": "Livros",
-    "title": "Introduction to Bash",
+    "title": "Introdução de Bash",
     "url": "https://github.com/bobbyiliev/introduction-to-bash-scripting",
     "icon": "https://external-content.duckduckgo.com/ip3/github.com.ico"
   },
   {
     "id": "bash",
     "sub_id": "Guias",
-    "title": "Learn Bash",
+    "title": "Aprenda Bash",
     "url": "https://www.learnshell.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.learnshell.org.ico"
   },
@@ -37,7 +37,7 @@
   {
     "id": "bash",
     "sub_id": "Livros",
-    "title": "Learning Bash",
+    "title": "Aprendaing Bash",
     "url": "https://riptutorial.com/ebook/bash",
     "icon": "https://external-content.duckduckgo.com/ip3/riptutorial.com.ico"
   },

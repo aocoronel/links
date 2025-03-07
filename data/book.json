@@ -2,7 +2,7 @@
   {
     "id": "book",
     "sub_id": "Tecnologia",
-    "title": "Free Programming Livros",
+    "title": "Free Programming Books",
     "url": "https://github.com/EbookFoundation/free-programming-books#readme",
     "icon": "https://external-content.duckduckgo.com/ip3/github.com.ico"
   },
@@ -30,14 +30,14 @@
   {
     "id": "book",
     "sub_id": "Ciência da Computação",
-    "title": "UNL - Computer Scince II",
+    "title": "UNL - Ciência da Computação II",
     "url": "https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf",
     "icon": "https://external-content.duckduckgo.com/ip3/cse.unl.edu.ico"
   },
   {
     "id": "book",
     "sub_id": "Tecnologia",
-    "title": "Learn Neovim",
+    "title": "Aprenda Neovim",
     "url": "https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html",
     "icon": "https://external-content.duckduckgo.com/ip3/ofirgall.github.io.ico"
   }
