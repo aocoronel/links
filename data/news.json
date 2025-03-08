@@ -15,7 +15,7 @@
   },
   {
     "id": "news",
-    "sub_id": "General",
+    "sub_id": "Geral",
     "title": "ArsTechnica",
     "url": "https://arstechnica.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/arstechnica.com.ico"
@@ -43,14 +43,14 @@
   },
   {
     "id": "news",
-    "sub_id": "General",
+    "sub_id": "Geral",
     "title": "BBC News",
     "url": "https://www.bbc.com/news",
     "icon": "https://external-content.duckduckgo.com/ip3/www.bbc.com.ico"
   },
   {
     "id": "news",
-    "sub_id": "General",
+    "sub_id": "Geral",
     "title": "TED",
     "url": "https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug",
     "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"

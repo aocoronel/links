@@ -29,27 +29,6 @@
   },
   {
     "id": "vet_content",
-    "sub_id": "Cursos",
-    "title": "FioCruz",
-    "url": "https://campusvirtual.fiocruz.br/portal/?q=inscricao-selecao&field_unidades_target_id_entityreference_filter=All",
-    "icon": "https://external-content.duckduckgo.com/ip3/campusvirtual.fiocruz.br.ico"
-  },
-  {
-    "id": "vet_content",
-    "sub_id": "Cursos",
-    "title": "CPT Cursos",
-    "url": "https://www.cptcursospresenciais.com.br/",
-    "icon": "https://external-content.duckduckgo.com/ip3/www.cptcursospresenciais.com.br.ico"
-  },
-  {
-    "id": "vet_content",
-    "sub_id": "Cursos",
-    "title": "Vet Profissional",
-    "url": "https://www.vetprofissional.com.br/",
-    "icon": "https://external-content.duckduckgo.com/ip3/www.vetprofissional.com.br.ico"
-  },
-  {
-    "id": "vet_content",
     "sub_id": "Artigos",
     "title": "BioMedCentral",
     "url": "https://www.biomedcentral.com/",
