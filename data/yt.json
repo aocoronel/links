@@ -68,5 +68,12 @@
     "title": "ThePrimeTime",
     "url": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
     "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+  },
+  {
+    "id": "yt",
+    "sub_id": "Geral",
+    "title": "TED",
+    "url": "https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug",
+    "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
   }
 ]
