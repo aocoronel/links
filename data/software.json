@@ -198,13 +198,6 @@
   {
     "id": "software",
     "sub_id": "Browser",
-    "title": "Arc",
-    "url": "https://arc.net/",
-    "icon": "https://external-content.duckduckgo.com/ip3/arc.net.ico"
-  },
-  {
-    "id": "software",
-    "sub_id": "Browser",
     "title": "Brave",
     "url": "https://brave.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/brave.com.ico"
