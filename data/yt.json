@@ -1,13 +1,6 @@
 [
   {
     "id": "yt",
-    "sub_id": "Privacy",
-    "title": "TechLore",
-    "url": "https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg",
-    "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
-  },
-  {
-    "id": "yt",
     "sub_id": "Tech",
     "title": "Cloud Native Corner",
     "url": "https://www.youtube.com/channel/UCkWVN7H3JqGtJ5Pv5bvCrAw",
@@ -43,30 +36,58 @@
   },
   {
     "id": "yt",
-    "sub_id": "Learn-to-Learn",
-    "title": "Justin Sung",
-    "url": "https://www.youtube.com/channel/UC2Zs9v2hL2qZZ7vsAENsg4w",
-    "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
-  },
-  {
-    "id": "yt",
-    "sub_id": "Learn-to-Learn",
-    "title": "Koi",
-    "url": "https://www.youtube.com/channel/UCBX_-ls-dXuhFNSWSXcHrTA",
-    "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
-  },
-  {
-    "id": "yt",
-    "sub_id": "Learn-to-Learn",
-    "title": "Ali Abdaal",
-    "url": "https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg",
+    "sub_id": "Tech",
+    "title": "ThePrimeTime",
+    "url": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
     "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
   },
   {
     "id": "yt",
     "sub_id": "Tech",
-    "title": "ThePrimeTime",
-    "url": "https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ",
+    "title": "Joshua Blais",
+    "url": "https://www.youtube.com/channel/UC1tV5SjRyejRGeHAaMGYSsQ",
+    "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+  },
+  {
+    "id": "yt",
+    "sub_id": "Music",
+    "title": "Stone Meadow of Doom",
+    "url": "https://www.youtube.com/channel/UCknVpWR6m2Ijzkqo-aPXs_g",
+    "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+  },
+  {
+    "id": "yt",
+    "sub_id": "Music",
+    "title": "Rock Freaks",
+    "url": "https://www.youtube.com/channel/UCtqNS8M6T9KkC1qHDGk7WcQ",
+    "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+  },
+  {
+    "id": "yt",
+    "sub_id": "Tech",
+    "title": "DistroTube",
+    "url": "https://www.youtube.com/channel/UCVls1GmFKf6WlTraIb_IaJg",
+    "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+  },
+  {
+    "id": "yt",
+    "sub_id": "Tech",
+    "title": "Chris Titus Tech",
+    "url": "https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ",
+    "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+  },
+  {
+    "id": "yt",
+    "sub_id": "Tech",
+    "title": "Brodie Robertson",
+    "url": "https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA",
+    "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+  },
+  {
+    "id": "yt",
+    "sub_id": "Tech",
+    "title": "Luke Smith",
+    "url": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA",
     "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
   }
 ]
