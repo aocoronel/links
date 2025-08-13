@@ -37,13 +37,6 @@
   {
     "id": "software",
     "sub_id": "Notes",
-    "title": "Obsidian",
-    "url": "https://obsidian.md/",
-    "icon": "https://external-content.duckduckgo.com/ip3/obsidian.md.ico"
-  },
-  {
-    "id": "software",
-    "sub_id": "Notes",
     "title": "Logseq",
     "url": "https://logseq.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/logseq.com.ico"
@@ -58,37 +51,9 @@
   {
     "id": "software",
     "sub_id": "Notes",
-    "title": "Notion",
-    "url": "https://www.notion.com/",
-    "icon": "https://external-content.duckduckgo.com/ip3/www.notion.com.ico"
-  },
-  {
-    "id": "software",
-    "sub_id": "Notes",
-    "title": "Capacities",
-    "url": "https://capacities.io/",
-    "icon": "https://external-content.duckduckgo.com/ip3/capacities.io.ico"
-  },
-  {
-    "id": "software",
-    "sub_id": "Notes",
-    "title": "Kortex",
-    "url": "https://www.kortex.co/",
-    "icon": "https://external-content.duckduckgo.com/ip3/www.kortex.co.ico"
-  },
-  {
-    "id": "software",
-    "sub_id": "Notes",
     "title": "Notesnook",
     "url": "https://notesnook.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/notesnook.com.ico"
-  },
-  {
-    "id": "software",
-    "sub_id": "Tasks",
-    "title": "Todoist",
-    "url": "https://www.todoist.com/",
-    "icon": "https://external-content.duckduckgo.com/ip3/www.todoist.com.ico"
   },
   {
     "id": "software",
@@ -128,9 +93,9 @@
   {
     "id": "software",
     "sub_id": "Audio",
-    "title": "Audacity",
-    "url": "https://www.audacityteam.org/",
-    "icon": "https://external-content.duckduckgo.com/ip3/www.audacityteam.org.ico"
+    "title": "Tenacity",
+    "url": "https://tenacityaudio.org/",
+    "icon": "https://external-content.duckduckgo.com/ip3/tenacityaudio.org.ico"
   },
   {
     "id": "software",
@@ -201,13 +166,6 @@
     "title": "Brave",
     "url": "https://brave.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/brave.com.ico"
-  },
-  {
-    "id": "software",
-    "sub_id": "Browser",
-    "title": "Vivaldi",
-    "url": "https://vivaldi.com/",
-    "icon": "https://external-content.duckduckgo.com/ip3/vivaldi.com.ico"
   },
   {
     "id": "software",
