@@ -297,7 +297,7 @@ h3 {
   border: 2px solid var(--border-accent);
   border-radius: 10px;
   box-sizing: border-box;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
   margin: 0;
   max-width: 100%;
@@ -343,7 +343,7 @@ h3 {
   display: grid;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 7px;
+  gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   justify-content: center;
   max-width: 1200px;
