@@ -117,5 +117,12 @@
     "title": "Joshua Blais",
     "url": "https://joshblais.com/",
     "icon": "https://external-content.duckduckgo.com/ip3/joshblais.com.ico"
+  },
+  {
+    "id": "news",
+    "sub_id": "Cool Blogs",
+    "title": "Luke Smith",
+    "url": "https://lukesmith.xyz/",
+    "icon": "https://external-content.duckduckgo.com/ip3/lukesmith.xyz.ico"
   }
 ]
