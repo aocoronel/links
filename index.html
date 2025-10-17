@@ -66,19 +66,25 @@
     <div id="mainpage-content" class="sidebar-content">
       <h4>Links</h4>
 
-      <button onclick="changePage('home'); switchSection('ai'); toggleSidebar();">Main Page</button>
+      <button
+        onclick="changePage('home'); switchSection('about_main'); toggleSidebar();"
+      >
+        Main Page
+      </button>
       <a href="https://github.com/aocoronel/links">Source Code</a>
 
       <h4>Development</h4>
 
-      <button onclick="changePage('code'); switchSection('py'); toggleSidebar();">
+      <button
+        onclick="changePage('code'); switchSection('about_code'); toggleSidebar();"
+      >
         Programming Languages
       </button>
 
       <h4>Medicine</h4>
 
       <button
-        onclick="changePage('vet'); switchSection('vet'); toggleSidebar();"
+        onclick="changePage('vet'); switchSection('about_vet'); toggleSidebar();"
       >
         Veterinary Medicine (PT-BR)
       </button>
@@ -87,7 +93,31 @@
       <a href="https://github.com/aocoronel">Github</a>
     </div>
 
-    </div>
+    <noscript>
+      <div
+        style="
+          background-color: #fff3cd;
+          color: #000;
+          padding: 16px;
+          border: 1px solid #ffeeba;
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          z-index: 9999;
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+          text-align: center;
+          font-family: Arial, sans-serif;
+        "
+      >
+        <p style="margin: 0; font-weight: bold; color: black">
+          ⚠️ JavaScript is disabled in your browser.
+        </p>
+        <p style="margin: 4px 0 0; color: black">
+          For the best experience, please enable JavaScript.
+        </p>
+      </div>
+    </noscript>
 
     <!-- Footer -->
     <div class="footer">

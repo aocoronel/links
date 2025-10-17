@@ -42,14 +42,19 @@ function switchSection(section) {
           Object.keys(groupedLinks[id])
             .sort()
             .forEach((sub_id) => {
-              let columnDiv = document.createElement("div");
-              columnDiv.className = "column";
+              let subIdContainer = document.createElement("div");
+              subIdContainer.className = "sub_id_container";
 
+              let titleColumn = document.createElement("div");
+              titleColumn.className = "column title_column";
               let subIdTitle = document.createElement("h3");
               subIdTitle.className = `sub_id_title ${id}`;
               subIdTitle.textContent = `${sub_id}`;
-              columnDiv.appendChild(subIdTitle);
+              titleColumn.appendChild(subIdTitle);
+              subIdContainer.appendChild(titleColumn);
 
+              let cardsColumn = document.createElement("div");
+              cardsColumn.className = "column cards_column";
               groupedLinks[id][sub_id]
                 .sort((a, b) => a.title.localeCompare(b.title))
                 .forEach((link) => {
@@ -57,10 +62,11 @@ function switchSection(section) {
                   a.href = link.url;
                   a.className = "card";
                   a.innerHTML = `<img src="${link.icon}" width="32"><p>${link.title}</p>`;
-                  columnDiv.appendChild(a);
+                  cardsColumn.appendChild(a);
                 });
+              subIdContainer.appendChild(cardsColumn);
 
-              columnsContainer.appendChild(columnDiv);
+              columnsContainer.appendChild(subIdContainer);
             });
 
           sectionDiv.appendChild(columnsContainer);
@@ -141,5 +147,19 @@ function changePage(page) {
 }
 
 window.addEventListener("popstate", loadPage);
-switchSection("ai");
+
 loadPage();
+
+const current_params = new URLSearchParams(window.location.search);
+const current_page = current_params.get("page");
+
+if (!current_page) {
+  history.replaceState(null, "", "?page=home");
+  switchSection("about_main");
+} else if (current_page === "code") {
+  switchSection("about_code");
+} else if (current_page === "vet") {
+  switchSection("about_vet");
+} else if (current_page === "home") {
+  switchSection("about_main");
+}

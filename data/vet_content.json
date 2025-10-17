@@ -141,16 +141,16 @@
   },
   {
     "id": "vet_content",
-    "sub_id": "Aulas",
-    "title": "Aula de Anatomia",
-    "url": "https://www.auladeanatomia.com/",
-    "icon": "https://external-content.duckduckgo.com/ip3/www.auladeanatomia.com.ico"
-  },
-  {
-    "id": "vet_content",
     "sub_id": "Biblioteca",
     "title": "StatPearls",
     "url": "https://www.ncbi.nlm.nih.gov/books/NBK430685/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.ncbi.nlm.nih.gov.ico"
+  },
+  {
+    "id": "vet_content",
+    "sub_id": "Artigos",
+    "title": "SageJournals",
+    "url": "https://journals.sagepub.com/",
+    "icon": "https://external-content.duckduckgo.com/ip3/journals.sagepub.com.ico"
   }
 ]

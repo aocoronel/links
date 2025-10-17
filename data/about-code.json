@@ -1,0 +1,9 @@
+[
+  {
+    "id": "about_code",
+    "sub_id": "Programming Languages",
+    "title": "Here you will find links to cheatsheets, courses, tutorials, roadmaps and books for many programming languages.\n\nThese materials may be relevant for both experts and beginners with no computer science background.",
+    "url": "https://aocoronel.github.io/links",
+    "icon": "./assets/links.png"
+  }
+]

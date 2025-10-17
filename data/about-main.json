@@ -1,0 +1,16 @@
+[
+  {
+    "id": "about_main",
+    "sub_id": "Links",
+    "title": "Welcome to Links. This is page contains general purpose links I find interesting. You can find even more links by clicking the '☰' button\n\nThe links presented, here, to you are very personal to my own interests. However, they may be useful for you!\n\nThe main goal is to provide links to mostly open-source and free alternatives to common proprietary and paid services. And of course, share sources of knowledge.",
+    "url": "https://aocoronel.github.io/links",
+    "icon": "./assets/links.png"
+  },
+  {
+    "id": "about_main",
+    "sub_id": "Main Page",
+    "title": "What you will find in this page:\n<strong>Artificial Intelligence:</strong> Alternatives to OpenAI, Google and other Big Tech services\n<strong>News:</strong> All about technology in general\n<strong>Software</strong>: All kinds of GUI and CLI open-source software to save you from subscritions and improve you general workflow.\n<strong>Code</strong>: Several links to programming languages simple tutorials, courses and cheatsheets.\n<strong>Lifestyle</strong>: Some personal websites about philosophies and well-being.\n<strong>Databases</strong>: Perhaps you want to search a huge list of books, software, icons and emojis, and even wallpapers?\n<strong>YouTube</strong>: Some music, mostly rock, and tech channels.",
+    "url": "https://aocoronel.github.io/links",
+    "icon": "./assets/links.png"
+  }
+]

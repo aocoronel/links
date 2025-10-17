@@ -1,4 +1,7 @@
 const jsonMappings = {
+  about_main: "data/about-main.json",
+  about_code: "data/about-code.json",
+  about_vet: "data/about-vet.json",
   ai: "data/ai.json",
   bash: "data/bash.json",
   book: "data/book.json",
