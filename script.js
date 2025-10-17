@@ -120,9 +120,8 @@ function toggleSidebar() {
 }
 
 // Switch Page
-function loadPage() {
+function loadPage(page) {
   const params = new URLSearchParams(window.location.search);
-  const page = params.get("page") || "home";
 
   fetch(`pages/${page}.html`)
     .then((response) => {
@@ -137,29 +136,27 @@ function loadPage() {
         "<p>Page not found.</p>";
     });
 
-  switchSection(page);
+  let default_page = `about_${page}`;
+  switchSection(default_page);
 }
 
 function changePage(page) {
   history.pushState(null, "", `?page=${page}`);
-  loadPage();
-  switchSection(page);
+  loadPage(page);
 }
 
-window.addEventListener("popstate", loadPage);
-
-loadPage();
+window.addEventListener("popstate", () => {
+  const params = new URLSearchParams(window.location.search);
+  const current_page = params.get("page");
+  loadPage(current_page || "home");
+});
 
 const current_params = new URLSearchParams(window.location.search);
 const current_page = current_params.get("page");
 
 if (!current_page) {
   history.replaceState(null, "", "?page=home");
-  switchSection("about_main");
-} else if (current_page === "code") {
-  switchSection("about_code");
-} else if (current_page === "vet") {
-  switchSection("about_vet");
-} else if (current_page === "home") {
-  switchSection("about_main");
+  loadPage("home");
+} else {
+  loadPage(current_page);
 }
