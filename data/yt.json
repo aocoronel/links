@@ -89,5 +89,19 @@
     "title": "Luke Smith",
     "url": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA",
     "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+  },
+  {
+    "id": "yt",
+    "sub_id": "Tech",
+    "title": "Tony Banters",
+    "url": "https://www.youtube.com/@tony-btw",
+    "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+  },
+  {
+    "id": "yt",
+    "sub_id": "Tech",
+    "title": "Low Level",
+    "url": "https://www.youtube.com/@LowLevelTV",
+    "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
   }
 ]

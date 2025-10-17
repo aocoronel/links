@@ -54,5 +54,68 @@
     "title": "TED",
     "url": "https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug",
     "icon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+  },
+  {
+    "id": "news",
+    "sub_id": "Cool Blogs",
+    "title": "Augusto Coronel",
+    "url": "https://aocoronel.github.io/",
+    "icon": "https://external-content.duckduckgo.com/ip3/aocoronel.github.io.ico"
+  },
+  {
+    "id": "news",
+    "sub_id": "Cool Blogs",
+    "title": "Sewn",
+    "url": "https://sewn.moe",
+    "icon": "https://external-content.duckduckgo.com/ip3/sewn.moe.ico"
+  },
+  {
+    "id": "news",
+    "sub_id": "Cool Blogs",
+    "title": "Orhun Parmaksız",
+    "url": "https://blog.orhun.dev/",
+    "icon": "https://external-content.duckduckgo.com/ip3/blog.orhun.dev.ico"
+  },
+  {
+    "id": "news",
+    "sub_id": "Cool Blogs",
+    "title": "Andrew Kelley",
+    "url": "https://andrewkelley.me/",
+    "icon": "https://external-content.duckduckgo.com/ip3/andrewkelley.me.ico"
+  },
+  {
+    "id": "news",
+    "sub_id": "Cool Blogs",
+    "title": "Davyster",
+    "url": "https://dayvster.com/",
+    "icon": "https://external-content.duckduckgo.com/ip3/dayvster.com.ico"
+  },
+  {
+    "id": "news",
+    "sub_id": "Cool Blogs",
+    "title": "Piotr Zanieski",
+    "url": "https://cloudrumble.net/",
+    "icon": "https://external-content.duckduckgo.com/ip3/cloudrumble.net.ico"
+  },
+  {
+    "id": "news",
+    "sub_id": "Cool Blogs",
+    "title": "Tony Banters",
+    "url": "https://www.tonybtw.com/",
+    "icon": "https://external-content.duckduckgo.com/ip3/www.tonybtw.com.ico"
+  },
+  {
+    "id": "news",
+    "sub_id": "Cool Blogs",
+    "title": "Linkarzu",
+    "url": "https://linkarzu.com/",
+    "icon": "https://external-content.duckduckgo.com/ip3/linkarzu.com.ico"
+  },
+  {
+    "id": "news",
+    "sub_id": "Cool Blogs",
+    "title": "Joshua Blais",
+    "url": "https://joshblais.com/",
+    "icon": "https://external-content.duckduckgo.com/ip3/joshblais.com.ico"
   }
 ]
