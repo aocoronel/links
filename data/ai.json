@@ -2,20 +2,6 @@
   {
     "id": "ai",
     "sub_id": "Chatbots",
-    "title": "ChatGPT",
-    "url": "http://chat.com/",
-    "icon": "https://external-content.duckduckgo.com/ip3/chat.com.ico"
-  },
-  {
-    "id": "ai",
-    "sub_id": "Chatbots",
-    "title": "Perplexity",
-    "url": "https://www.perplexity.ai/",
-    "icon": "https://external-content.duckduckgo.com/ip3/www.perplexity.ai.ico"
-  },
-  {
-    "id": "ai",
-    "sub_id": "Chatbots",
     "title": "Mistral",
     "url": "https://chat.mistral.ai/chat",
     "icon": "https://external-content.duckduckgo.com/ip3/chat.mistral.ai.ico"
@@ -30,30 +16,9 @@
   {
     "id": "ai",
     "sub_id": "Images",
-    "title": "Leonardo AI",
-    "url": "https://app.leonardo.ai",
-    "icon": "https://external-content.duckduckgo.com/ip3/app.leonardo.ai.ico"
-  },
-  {
-    "id": "ai",
-    "sub_id": "Images",
     "title": "Loras.dev",
     "url": "https://www.loras.dev/",
     "icon": "https://external-content.duckduckgo.com/ip3/www.loras.dev.ico"
-  },
-  {
-    "id": "ai",
-    "sub_id": "TTS",
-    "title": "Eleven Labs",
-    "url": "https://elevenlabs.io/",
-    "icon": "https://external-content.duckduckgo.com/ip3/elevenlabs.io.ico"
-  },
-  {
-    "id": "ai",
-    "sub_id": "TTS",
-    "title": "PI AI",
-    "url": "https://pi.ai/talk",
-    "icon": "https://external-content.duckduckgo.com/ip3/pi.ai.ico"
   },
   {
     "id": "ai",
@@ -75,27 +40,6 @@
     "title": "Hugging Face",
     "url": "https://huggingface.co/",
     "icon": "https://external-content.duckduckgo.com/ip3/huggingface.co.ico"
-  },
-  {
-    "id": "ai",
-    "sub_id": "Chatbots",
-    "title": "Gemini",
-    "url": "https://gemini.google.com",
-    "icon": "https://external-content.duckduckgo.com/ip3/gemini.google.com.ico"
-  },
-  {
-    "id": "ai",
-    "sub_id": "Images",
-    "title": "Stable Diffusion",
-    "url": "https://stabledifffusion.com/",
-    "icon": "https://external-content.duckduckgo.com/ip3/stabledifffusion.com.ico"
-  },
-  {
-    "id": "ai",
-    "sub_id": "Chatbots",
-    "title": "Claude",
-    "url": "https://claude.ai",
-    "icon": "https://external-content.duckduckgo.com/ip3/claude.ai.ico"
   },
   {
     "id": "ai",
@@ -124,13 +68,6 @@
     "title": "PyTorch",
     "url": "https://pytorch.org/",
     "icon": "https://external-content.duckduckgo.com/ip3/pytorch.org.ico"
-  },
-  {
-    "id": "ai",
-    "sub_id": "Images",
-    "title": "Midjourney",
-    "url": "https://www.midjourney.com/home",
-    "icon": "https://external-content.duckduckgo.com/ip3/www.midjourney.com.ico"
   },
   {
     "id": "ai",
