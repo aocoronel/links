@@ -138,5 +138,12 @@
     "title": "Web Dev",
     "url": "https://web.dev/",
     "icon": "https://external-content.duckduckgo.com/ip3/web.dev.ico"
+  },
+  {
+    "id": "code",
+    "sub_id": "Guides",
+    "title": "Gentoo Handbook",
+    "url": "https://wiki.gentoo.org/wiki/Handbook:Main_Page",
+    "icon": "https://external-content.duckduckgo.com/ip3/wiki.gentoo.org.ico"
   }
 ]

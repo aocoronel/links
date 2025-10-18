@@ -2,7 +2,7 @@
   {
     "id": "about_home",
     "sub_id": "Links",
-    "title": "Welcome to Links. This is page contains general purpose links I find interesting. You can find even more links by clicking the '☰' button\n\nThe links presented, here, to you are very personal to my own interests. However, they may be useful for you!\n\nThe main goal is to provide links to mostly open-source and free alternatives to common proprietary and paid services. And of course, share sources of knowledge.",
+    "title": "Welcome to Links. This is page contains general purpose links I find interesting. You can find even more links by clicking the '☰' button\n\nThe links presented, here, to you are very personal to my own interests. However, they may be useful to you!\n\nThe main goal is to provide links to mostly open-source and free alternatives to common proprietary and paid services. And of course, share sources of knowledge.",
     "url": "https://aocoronel.github.io/links",
     "icon": "./assets/links.png"
   },
