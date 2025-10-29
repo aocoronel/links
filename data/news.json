@@ -124,5 +124,19 @@
     "title": "Luke Smith",
     "url": "https://lukesmith.xyz/",
     "icon": "https://external-content.duckduckgo.com/ip3/lukesmith.xyz.ico"
+  },
+  {
+    "id": "news",
+    "sub_id": "Cool Blogs",
+    "title": "Pierre Zemb",
+    "url": "https://pierrezemb.fr/",
+    "icon": "https://external-content.duckduckgo.com/ip3/pierrezemb.fr.ico"
+  },
+  {
+    "id": "news",
+    "sub_id": "Cool Blogs",
+    "title": "Zay Netro",
+    "url": "https://zaynetro.com/",
+    "icon": "https://external-content.duckduckgo.com/ip3/zaynetro.com.ico"
   }
 ]
